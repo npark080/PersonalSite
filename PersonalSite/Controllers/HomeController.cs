@@ -37,7 +37,7 @@ namespace PersonalSite.Controllers
         {
             return View();
         }
-        
+
         public IActionResult Links()
         {
             return View();

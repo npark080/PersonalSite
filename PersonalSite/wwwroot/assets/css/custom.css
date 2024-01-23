@@ -1,0 +1,14 @@
+﻿/* Links */
+.links {
+    flex: 0 0 auto;
+    width: 25%
+}
+
+.services .icon-box {
+    width: 240px;
+}
+
+/* Portfolio */
+.portfolio-links .git {
+    height: 30px;
+}
